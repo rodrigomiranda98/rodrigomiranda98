@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/35405697" />
+   <h3 align="center">¡Hey 👋! Soy Rodrigo 👨🏻‍💻</h3>
+</p>
+
 
 <!--
 **rodrigomiranda98/rodrigomiranda98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
